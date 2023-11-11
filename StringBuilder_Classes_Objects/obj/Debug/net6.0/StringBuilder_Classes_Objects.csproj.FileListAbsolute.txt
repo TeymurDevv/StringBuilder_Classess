@@ -1,0 +1,14 @@
+C:\Users\TeymurDevv\Desktop\C#\StringBuilder_Classes_Objects\StringBuilder_Classes_Objects\bin\Debug\net6.0\StringBuilder_Classes_Objects.exe
+C:\Users\TeymurDevv\Desktop\C#\StringBuilder_Classes_Objects\StringBuilder_Classes_Objects\bin\Debug\net6.0\StringBuilder_Classes_Objects.deps.json
+C:\Users\TeymurDevv\Desktop\C#\StringBuilder_Classes_Objects\StringBuilder_Classes_Objects\bin\Debug\net6.0\StringBuilder_Classes_Objects.runtimeconfig.json
+C:\Users\TeymurDevv\Desktop\C#\StringBuilder_Classes_Objects\StringBuilder_Classes_Objects\bin\Debug\net6.0\StringBuilder_Classes_Objects.dll
+C:\Users\TeymurDevv\Desktop\C#\StringBuilder_Classes_Objects\StringBuilder_Classes_Objects\bin\Debug\net6.0\StringBuilder_Classes_Objects.pdb
+C:\Users\TeymurDevv\Desktop\C#\StringBuilder_Classes_Objects\StringBuilder_Classes_Objects\obj\Debug\net6.0\StringBuilder_Classes_Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeymurDevv\Desktop\C#\StringBuilder_Classes_Objects\StringBuilder_Classes_Objects\obj\Debug\net6.0\StringBuilder_Classes_Objects.AssemblyInfoInputs.cache
+C:\Users\TeymurDevv\Desktop\C#\StringBuilder_Classes_Objects\StringBuilder_Classes_Objects\obj\Debug\net6.0\StringBuilder_Classes_Objects.AssemblyInfo.cs
+C:\Users\TeymurDevv\Desktop\C#\StringBuilder_Classes_Objects\StringBuilder_Classes_Objects\obj\Debug\net6.0\StringBuilder_Classes_Objects.csproj.CoreCompileInputs.cache
+C:\Users\TeymurDevv\Desktop\C#\StringBuilder_Classes_Objects\StringBuilder_Classes_Objects\obj\Debug\net6.0\StringBuilder_Classes_Objects.dll
+C:\Users\TeymurDevv\Desktop\C#\StringBuilder_Classes_Objects\StringBuilder_Classes_Objects\obj\Debug\net6.0\refint\StringBuilder_Classes_Objects.dll
+C:\Users\TeymurDevv\Desktop\C#\StringBuilder_Classes_Objects\StringBuilder_Classes_Objects\obj\Debug\net6.0\StringBuilder_Classes_Objects.pdb
+C:\Users\TeymurDevv\Desktop\C#\StringBuilder_Classes_Objects\StringBuilder_Classes_Objects\obj\Debug\net6.0\StringBuilder_Classes_Objects.genruntimeconfig.cache
+C:\Users\TeymurDevv\Desktop\C#\StringBuilder_Classes_Objects\StringBuilder_Classes_Objects\obj\Debug\net6.0\ref\StringBuilder_Classes_Objects.dll
